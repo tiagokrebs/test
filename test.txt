@@ -1,0 +1,11 @@
+1. /check route
+2. Add jwt authentication
+3. Add a route to insert orders
+4. Put orders on Kafka
+5. In another service, consume from kafka
+6. Do some calculation
+7. Insert into database
+8. Add logs
+9. Add metrics
+10. Add unit tests
+11. Add behavior tests
